@@ -2,13 +2,17 @@
 Version: V0.1.12
 Last Updated: 11/Jul/2021
 
-## Courses Undartaken
+## COURSES & PROJECTS
 
+## Courses
 C1 : Udemy - Learn Mulesoft: 12 steps to master the development of APIs!
 
-## Information
+## Projects
+none yet ...
 
-### THOSE CODES USED IN BRACKETS EXPLAINED
+## INFORMATION
+
+## Those codes in brackets explained
 Codes in any commit or update may include a 4+ alpha/numberi code in brackets.  In this case they reference a course or project as listed above, and its lesson number or project version.
 Eg:
 
@@ -17,4 +21,4 @@ Eg:
 
 ## In Closing
 
-Hope you fild this somewhat useful in your own integration development learnings.
+Hope you find this somewhat useful in your own integration development learnings.
